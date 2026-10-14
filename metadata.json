@@ -1,0 +1,8 @@
+{
+  "name": "ForgeFlow — Manufacturing Management",
+  "description": "From Raw Materials to Finished Products—Manage Production in One Place. Enterprise Manufacturing & Production Management System (MPMS) for modern factories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
